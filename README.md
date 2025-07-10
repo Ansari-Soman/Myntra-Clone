@@ -47,7 +47,7 @@ This project replicates the core functionality of Myntra, where users can browse
 
 Here is a preview of the Super Food Template:
 
-![Template Screenshot](./images/Demo.png)
+![Template Screenshot](Myntra_Clone\public\images\Demo.png)
 
 ---
 
